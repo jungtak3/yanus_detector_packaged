@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pygame
+pywin32
+mss
+Pillow
